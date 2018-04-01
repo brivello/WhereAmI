@@ -6,11 +6,12 @@
     android:layout_height="match_parent"
     tools:context="tech.brivello.whereami.MainActivity">
 
+
     <TextView
         android:id="@+id/AddDisplay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="teest"
         android:layout_above="@id/LocDisplay"
         android:textSize="24sp"
         android:layout_centerHorizontal="true"/>
